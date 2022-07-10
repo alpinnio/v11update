@@ -1,5 +1,5 @@
 let fs = require('fs') 
-let chalk = require('chalk')
+let chalk = require('chigcalk')
 
 global.owner = [
   ['6287898307350'],
