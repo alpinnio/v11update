@@ -56,9 +56,9 @@ fs.watchFile(file_exif, () => {
 })
 
 // Sticker WM
-global.packname = LuccyBot
-global.author = LuccyBot
-global.wm = '© LuxxyXyz'
+global.packname = 'LuccyBot'
+global.author = 'LuxxyXyz'
+global.wm = '© LuccyBot'
 
 global.multiplier = 1000 // The higher, The harder levelup
 
